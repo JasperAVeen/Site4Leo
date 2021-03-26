@@ -6,11 +6,3 @@ h1 {
   color: purple;
   font-size: 200px;
 }
-
-hr {
-  border-style: none;
-  border-top-style: dotted;
-  border-color: cyan;
-  border-width: 100px;
-  width: 50%;
-}
